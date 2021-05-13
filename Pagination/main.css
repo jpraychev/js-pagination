@@ -1,0 +1,8 @@
+.content {
+    margin-top: 50px;
+}
+.paginator {
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+}
